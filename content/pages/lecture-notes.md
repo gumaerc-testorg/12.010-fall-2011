@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5816426e-e626-2b91-ed6f-aec27f48aba8
 ---
@@ -107,7 +110,7 @@ Other links to look at:
 
 Continued with showing the elements of the FORTRAN and more detail on the typically encountered features of the language. Topics covered: subroutines and functions; intrinsic functions; constants and variables; input output with open/close, read/write, formats; character strings.
 
-The links in this lecture were to FORTRAN and intrinsic functions, which are given above. The programs poly\_area.f ([F]({{< baseurl >}}/resources/poly_area)) and vars.f ([F]({{< baseurl >}}/resources/vars)) are also used. (To download programs, right click on link and "save link target as". With one-button mouse use <ctrl><click> on link). On Athena to use these programs:
+The links in this lecture were to FORTRAN and intrinsic functions, which are given above. The programs poly\_area.f ([F]({{< baseurl >}}/resources/poly_area)) and vars.f ([F]({{< baseurl >}}/resources/vars)) are also used. (To download programs, right click on link and "save link target as". With one-button mouse use \<ctrl>\<click> on link). On Athena to use these programs:
 
 ssh –X linerva.mit.edu  
 %add fortran  

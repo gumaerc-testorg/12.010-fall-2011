@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 21.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-010-computational-methods-of-scientific-programming-fall-2011/468a074f6f3453460eac101cd5e1c5bf_12010Lec18_NDsolve.nb
+file: /media/courses/12-010-computational-methods-of-scientific-programming-fall-2011/468a074f6f3453460eac101cd5e1c5bf_12010Lec18_NDsolve.nb
 file_type: application/mathematica
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: 12010Lec18_NDsolve.nb
 uid: 468a074f-6f34-5346-0eac-101cd5e1c5bf
