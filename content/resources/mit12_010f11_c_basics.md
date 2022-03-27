@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5816426e-e626-2b91-ed6f-aec27f48aba8
 resourcetype: Document
 title: MIT12_010F11_c_basics.pdf
 uid: c26ed81c-4bc2-36f3-8646-870114b6d864

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5816426e-e626-2b91-ed6f-aec27f48aba8
 resourcetype: Document
 title: MIT12_010F11_c_fortan_comp.pdf
 uid: 07558a03-d25d-50ff-1d57-a6def9a9dc48

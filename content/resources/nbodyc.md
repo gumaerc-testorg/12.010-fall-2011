@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e4d10212-c3b7-5470-c21f-8d65b30722d4
 resourcetype: Other
 title: NBodyC.h
 uid: 9b2060b4-0407-3946-c4dd-4c89486e390e

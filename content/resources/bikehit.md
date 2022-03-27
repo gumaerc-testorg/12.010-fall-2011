@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e4d10212-c3b7-5470-c21f-8d65b30722d4
 resourcetype: Other
 title: bikehit.m
 uid: 03fe3d4e-5167-7b39-552b-3f15f2d7177d

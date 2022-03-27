@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5816426e-e626-2b91-ed6f-aec27f48aba8
 resourcetype: Document
 title: MIT12_010F11_c_pointers.pdf
 uid: 05f8ac66-a0b8-53aa-6ace-1080fa72db8c

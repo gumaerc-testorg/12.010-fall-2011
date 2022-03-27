@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5816426e-e626-2b91-ed6f-aec27f48aba8
 resourcetype: Other
 title: 12010Lec18_NDsolve.nb
 uid: 468a074f-6f34-5346-0eac-101cd5e1c5bf
