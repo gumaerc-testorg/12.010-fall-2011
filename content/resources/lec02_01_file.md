@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 14-17.
-file: /media/courses/12-010-computational-methods-of-scientific-programming-fall-2011/1101fa9b327b5bb47f421ccd933b40c5_Lec02_01_file.m
+file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/1101fa9b327b5bb47f421ccd933b40c5_Lec02_01_file.m
 file_type: text/x-objcsrc
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Lec02_01_file.m
 uid: 1101fa9b-327b-5bb4-7f42-1ccd933b40c5
 ---
+This is a supporting file for lecture 14-17.
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course,
+  lecture notes, and supporting files, and links to related resources.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -38,9 +40,9 @@ Introduction: Problem formulation, algorithm development, algorithm implementati
 {{< tdopen >}}
 
 
-Lec #1 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec01))
+Lec #1 ({{% resource_link fa9e8a67-8960-5170-a380-0ad057c1a4e9 "PDF" %}})
 
-Lec #2 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec02))
+Lec #2 ({{% resource_link 1f0edda9-a651-dfca-4ec1-0f8c04503b4c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -81,15 +83,15 @@ FORTRAN: "Formula Translation". Program creation, compilation and linking, varia
 {{< tdopen >}}
 
 
-Lec #3 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec03))
+Lec #3 ({{% resource_link f0e0c82a-be71-570a-17ce-43aa514a63db "PDF" %}})
 
-Lec #4 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec04))
+Lec #4 ({{% resource_link 41323518-f446-9148-18e9-c79b40fad1f6 "PDF" %}})
 
-Lec #5 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec05))
+Lec #5 ({{% resource_link a40a2364-4f72-5f34-95b5-878ad196e4f5 "PDF" %}})
 
-Lec #6 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec06))
+Lec #6 ({{% resource_link 5ea7de2d-b20c-86df-928b-8250fe4f83dc "PDF" %}})
 
-Lec #7 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec07))
+Lec #7 ({{% resource_link 0b6b7007-996e-1952-0a44-e93a418b1e68 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -110,7 +112,7 @@ Other links to look at:
 
 Continued with showing the elements of the FORTRAN and more detail on the typically encountered features of the language. Topics covered: subroutines and functions; intrinsic functions; constants and variables; input output with open/close, read/write, formats; character strings.
 
-The links in this lecture were to FORTRAN and intrinsic functions, which are given above. The programs poly\_area.f ([F]({{< baseurl >}}/resources/poly_area)) and vars.f ([F]({{< baseurl >}}/resources/vars)) are also used. (To download programs, right click on link and "save link target as". With one-button mouse use \<ctrl>\<click> on link). On Athena to use these programs:
+The links in this lecture were to FORTRAN and intrinsic functions, which are given above. The programs poly\_area.f ({{% resource_link 3c22a7c4-6b70-2279-8f1c-77357bb498fd "F" %}}) and vars.f ({{% resource_link 667eacfc-4c16-f882-0e50-917d90f9755b "F" %}}) are also used. (To download programs, right click on link and "save link target as". With one-button mouse use \<ctrl>\<click> on link). On Athena to use these programs:
 
 ssh –X linerva.mit.edu  
 %add fortran  
@@ -157,13 +159,13 @@ C++ objects. Encapsulation and inheritance, polymorphic operators
 {{< tdopen >}}
 
 
-Lec #8 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec08))
+Lec #8 ({{% resource_link d2d19d35-a493-2953-566b-cd406d6347f0 "PDF" %}})
 
-Lec #9 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec09))
+Lec #9 ({{% resource_link 11c4e674-0ce4-4f97-13d7-40f70fe7f5f3 "PDF" %}})
 
-Lec #10 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec10))
+Lec #10 ({{% resource_link ab71f485-954a-946a-9183-ac6918df4b9e "PDF" %}})
 
-Lec #11 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec11))
+Lec #11 ({{% resource_link 86cfd8e9-18ea-3b34-14b0-5336b3462f2f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -186,21 +188,21 @@ Lec #08 Exercises.
 
 Continuation of C. Covering Examined C-pointer; file Input/Output and the routines for formatted reads and write; compiling C routines; the C preprocessor cpp; structures in C; memory management.
 
-Lec09\_pnt.c ([C]({{< baseurl >}}/resources/lec09_pnt)) is demonstration of pointers
+Lec09\_pnt.c ({{% resource_link daa898d1-3641-45ba-152b-2af9e2d226de "C" %}}) is demonstration of pointers
 
 ### Lec #10
 
 Finish structures and memory management in C. Start of C++. Inheritance and overloading in C++.
 
-C and C++ routines used in class launch.c ([C]({{< baseurl >}}/resources/launch-2))
+C and C++ routines used in class launch.c ({{% resource_link 4aea5a9e-83cf-e30e-030a-883fd1107ba6 "C" %}})
 
-Ball.h ([H]({{< baseurl >}}/resources/ball)) and launch.cc ([CC]({{< baseurl >}}/resources/launch))
+Ball.h ({{% resource_link cc64c27f-893c-444c-5bde-595a347a63b6 "H" %}}) and launch.cc ({{% resource_link 6c826d7e-c469-90da-58bd-92eac3c3cc5c "CC" %}})
 
 C++ zip files:
 
-ustring.zip ([ZIP]({{< baseurl >}}/resources/ustring)) (The ZIP file contains: 2 .h files, 1 .cc file, and 1 .txt file.)  
-launch.zip ([ZIP]({{< baseurl >}}/resources/launch-1)) (The ZIP file contains: 1 .cc file, 1 .h file, and 1 .txt file.)  
-coord.zip ([ZIP]({{< baseurl >}}/resources/coord)) (The ZIP file contains: 1 .cc file, 1 .h file, and 1 .txt file.)
+ustring.zip ({{% resource_link 0708c942-c7e9-4356-63f5-287995f91d4d "ZIP" %}}) (The ZIP file contains: 2 .h files, 1 .cc file, and 1 .txt file.)  
+launch.zip ({{% resource_link 441b39e3-f9f2-b583-a110-d862597c3863 "ZIP" %}}) (The ZIP file contains: 1 .cc file, 1 .h file, and 1 .txt file.)  
+coord.zip ({{% resource_link a89199d9-8823-8638-d9ba-99927ffae0bf "ZIP" %}}) (The ZIP file contains: 1 .cc file, 1 .h file, and 1 .txt file.)
 
 ### Lec #11
 
@@ -208,9 +210,9 @@ Finish up of C++ looking at classes, inheritance and overloading. We will look m
 
 Example pieces of code for C and comparison to FORTRAN:
 
-C basics ([PDF]({{< baseurl >}}/resources/mit12_010f11_c_basics)), area.c ([C]({{< baseurl >}}/resources/area)), hello.c ([C]({{< baseurl >}}/resources/hello))  
-C FORTRAN compare ([PDF]({{< baseurl >}}/resources/mit12_010f11_c_fortan_comp))  
-C pointers ([PDF]({{< baseurl >}}/resources/mit12_010f11_c_pointers))
+C basics ({{% resource_link c26ed81c-4bc2-36f3-8646-870114b6d864 "PDF" %}}), area.c ({{% resource_link c78699e8-6b16-5f4c-bf1e-d3222d6e19bc "C" %}}), hello.c ({{% resource_link b7745047-8d54-b510-5c92-3adb9cb542ea "C" %}})  
+C FORTRAN compare ({{% resource_link 07558a03-d25d-50ff-1d57-a6def9a9dc48 "PDF" %}})  
+C pointers ({{% resource_link 05f8ac66-a0b8-53aa-6ace-1080fa72db8c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -232,9 +234,9 @@ Working with Mathematica: numerical calculations, symbolic calculations, and gra
 {{< tdopen >}}
 
 
-Lec #12 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec12))
+Lec #12 ({{% resource_link 1db38343-5b1f-3a37-7429-99088a836f7d "PDF" %}})
 
-Lec #13 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec13))
+Lec #13 ({{% resource_link 7d5277ce-de21-11d5-8cb8-94b1803f3fff "PDF" %}})
 
 
 {{< tdclose >}}
@@ -245,7 +247,7 @@ Lec #13 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec13))
 
 Start of Mathematica. These lectures are accompanied by a Mathematica Notebook that shows example of concepts presented in the notes.
 
-Lec 12 NB ([NB]({{< baseurl >}}/resources/12010lec12))
+Lec 12 NB ({{% resource_link 3c14d2a4-2174-0a89-389d-70a8fb044a10 "NB" %}})
 
 Introductory screen casts from Wolfram:
 
@@ -261,7 +263,7 @@ Introductory screen casts from Wolfram:
 
 Continuation of Mathematica. These lectures are accompanied by a Mathematica notebook that shows example of concepts presented in the notes.
 
-Lec 13 NB ([NB]({{< baseurl >}}/resources/12010lec13))
+Lec 13 NB ({{% resource_link 18cf33a9-d60c-8078-8348-5417aa422bfa "NB" %}})
 
 
 {{< tdclose >}}
@@ -283,13 +285,13 @@ MATLAB applications, polynomials, interpolation, integration, differentiation, O
 {{< tdopen >}}
 
 
-Lec #14 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec14))
+Lec #14 ({{% resource_link d274a468-ea21-6c74-4412-91439a7ae019 "PDF" %}})
 
-Lec #15 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec15))
+Lec #15 ({{% resource_link 0d4e1bce-e5bb-fd36-fa5f-e0711a6f3c06 "PDF" %}})
 
-Lec #16 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec16))
+Lec #16 ({{% resource_link 4714963e-4e9e-38a8-2b87-9ce29f9f6381 "PDF" %}})
 
-Lec #17 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec17))
+Lec #17 ({{% resource_link 44478622-e6e7-57e2-de5b-ecce3e525989 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -300,34 +302,34 @@ Lec #17 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec17))
 
 MATLAB: introductory lecture on MATLAB introducing system, variable types, control and functions. The following MATLAB M-files are used in the lecture:
 
-Lec01\_01.m ([M]({{< baseurl >}}/resources/lec01_01))  
-Lec01\_02.m ([M]({{< baseurl >}}/resources/lec01_02))
+Lec01\_01.m ({{% resource_link 335a4fe5-e73b-3751-fd0d-e060b850ed2d "M" %}})  
+Lec01\_02.m ({{% resource_link 1e799675-7de6-6d6c-d945-c59ab7f934ae "M" %}})
 
 ### Lec #15
 
 MATLAB: path command, variables, file IO and dialog boxes. The following M-files are used:
 
-Lec02\_01\_file.m ([M]({{< baseurl >}}/resources/lec02_01_file))  
-Lec02\_02\_db.m ([M]({{< baseurl >}}/resources/lec02_02_db))  
-Lec03\_01\_file.m ([M]({{< baseurl >}}/resources/lec03_01_file))
+Lec02\_01\_file.m ({{% resource_link 1101fa9b-327b-5bb4-7f42-1ccd933b40c5 "M" %}})  
+Lec02\_02\_db.m ({{% resource_link 1608366b-2b0a-d288-e4ca-48af7ede3120 "M" %}})  
+Lec03\_01\_file.m ({{% resource_link d50cb2cb-6d29-c293-a6b8-6a6b109a4115 "M" %}})
 
-The data for these M-files can be found in [MatData](http://www-gpsg.mit.edu/~tah/12.010/MatData/). A tar file with the data is TSeries.tar ([TAR]({{< baseurl >}}/resources/tseries)) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)
+The data for these M-files can be found in [MatData](http://www-gpsg.mit.edu/~tah/12.010/MatData/). A tar file with the data is TSeries.tar ({{% resource_link cd668549-0d67-1d7c-c220-725bbc297e7c "TAR" %}}) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)
 
 ### Lec #16
 
 MATLAB: graphics handles and animation of figures. The following M-files are used in class:
 
-Lec03\_movie.m ([M]({{< baseurl >}}/resources/lec03_movie))  
-MATLAB/per\_func.m ([M]({{< baseurl >}}/resources/per_func))
+Lec03\_movie.m ({{% resource_link 74301e45-7cd2-9a17-4e0d-0a5626c36176 "M" %}})  
+MATLAB/per\_func.m ({{% resource_link 063307ed-7709-10fc-9803-8569307ebccd "M" %}})
 
 ### Lec #17
 
-MATLAB: final class on GUI construction and use. The following M-files are used (along with the data from [MatData](http://www-gpsg.mit.edu/~tah/12.010/MatData/): a tar file with the data is TSeries.tar ([TAR]({{< baseurl >}}/resources/tseries)) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)
+MATLAB: final class on GUI construction and use. The following M-files are used (along with the data from [MatData](http://www-gpsg.mit.edu/~tah/12.010/MatData/): a tar file with the data is TSeries.tar ({{% resource_link cd668549-0d67-1d7c-c220-725bbc297e7c "TAR" %}}) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)
 
 Basic GUI layout:
 
-GPSanal.m ([M]({{< baseurl >}}/resources/gpsanal))  
-gpsguio.m ([M]({{< baseurl >}}/resources/gpsguio))
+GPSanal.m ({{% resource_link 389afab6-84de-8a20-847b-ccaa333e1dfe "M" %}})  
+gpsguio.m ({{% resource_link 501337ca-81fb-5c55-3424-4ce13e5be4f2 "M" %}})
 
 
 {{< tdclose >}}
@@ -343,9 +345,9 @@ Python scripting language program
 {{< tdopen >}}
 
 
-Lec #18 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec18))
+Lec #18 ({{% resource_link 2894ec98-89a5-d368-214a-9333b654714e "PDF" %}})
 
-Lec #19 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec19))
+Lec #19 ({{% resource_link f826ae44-8931-a059-34c1-0e02348127c2 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -376,7 +378,7 @@ Python II: Python Advanced Usage
 Advanced graphics in MATLAB, 3-D representation and exportable animations
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #20 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec20))
+Lec #20 ({{% resource_link a6178c92-4163-f6e3-8cd3-45871c14334b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -387,7 +389,7 @@ Lec #20 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec20))
 
 Examples are:
 
-Lec20\_3D.m ([M]({{< baseurl >}}/resources/lec19_3d))   
+Lec20\_3D.m ({{% resource_link c65c5abb-d184-3a2f-1e4e-9ecb1b2d21c7 "M" %}})   
 Lec20\_TotalANC.avi ([AVI](http://geoweb.mit.edu/~tah/12.010/Lec19_TotalANC.avi))   
 Lec20\_RateANC.avi ([AVI](http://geoweb.mit.edu/~tah/12.010/Lec19_RateANC.avi))   
 Dif\_1006\_0407.fig ([FIG](http://geoweb.mit.edu/~tah/12.010/Dif_1006_0407.fig))
@@ -404,7 +406,7 @@ Dif\_1006\_0407.fig ([FIG](http://geoweb.mit.edu/~tah/12.010/Dif_1006_0407.fig))
 Ordinary differential equation (ODE) solutions used MATLAB and Mathematica
 {{< tdclose >}}
 {{< tdopen >}}
-Lec #21 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec21))
+Lec #21 ({{% resource_link c0aef797-00a1-0a5e-7982-1c93dd163d86 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -413,14 +415,14 @@ Lec #21 ([PDF]({{< baseurl >}}/resources/mit12_010f11_lec21))
 
 Solution to differential equations in Mathematica and MATLAB.
 
-Mathematic notebook: 12.010.Lec18\_NDsolve.nb ([NB]({{< baseurl >}}/resources/12010lec18_ndsolve))
+Mathematic notebook: 12.010.Lec18\_NDsolve.nb ({{% resource_link 468a074f-6f34-5346-0eac-101cd5e1c5bf "NB" %}})
 
 MATLAB solutions are:
 
-Lec21\_ODE.m ([M]({{< baseurl >}}/resources/lec18_ode))   
-Lec21\_animate.m ([M]({{< baseurl >}}/resources/lec18_animate))   
-Lec21\_hit.m ([M]({{< baseurl >}}/resources/lec18_hit))   
-Lec21\_bacc.m ([M]({{< baseurl >}}/resources/lec18_bacc))
+Lec21\_ODE.m ({{% resource_link 09d06a67-2a23-16fc-ec6a-c2ee6995adbb "M" %}})   
+Lec21\_animate.m ({{% resource_link 1a17c14e-b138-5d06-8e09-e57b530c2035 "M" %}})   
+Lec21\_hit.m ({{% resource_link 9a0a17f2-c399-3fc0-9196-a1311197a246 "M" %}})   
+Lec21\_bacc.m ({{% resource_link f588a9e1-e036-832b-69a2-bc6a5fce1f78 "M" %}})
 
 
 {{< tdclose >}}
@@ -457,7 +459,7 @@ Introduction of class project. Graphics formats and issues about vector and pixe
 
 ### Lec #23
 
-Class projects: graphics processor unit (GPU) processing. Statistics and random number generators. M-file randtest.m ([M]({{< baseurl >}}/resources/randtest)) is implementation of an LCG random number generator.
+Class projects: graphics processor unit (GPU) processing. Statistics and random number generators. M-file randtest.m ({{% resource_link 867d8adf-9e58-cfce-3efc-a2dc008c0203 "M" %}}) is implementation of an LCG random number generator.
 
 ### Lec #24
 
