@@ -5,6 +5,7 @@ file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/
 file_type: text/x-fortran
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vars.f
 uid: 667eacfc-4c16-f882-0e50-917d90f9755b
 ---
 This is a supporting file for lecture 3-7.
-

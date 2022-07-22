@@ -5,6 +5,7 @@ file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_010F11_c_basics.pdf
 uid: c26ed81c-4bc2-36f3-8646-870114b6d864
 ---
 This resource contains information related to c basics.
-

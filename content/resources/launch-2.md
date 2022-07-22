@@ -5,6 +5,7 @@ file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/
 file_type: text/x-csrc
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: launch.c
 uid: 4aea5a9e-83cf-e30e-030a-883fd1107ba6
 ---
 This is a supporting file for lecture 8-11.
-

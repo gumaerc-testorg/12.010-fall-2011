@@ -5,6 +5,7 @@ file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: coord.zip
 uid: a89199d9-8823-8638-d9ba-99927ffae0bf
 ---
 This is a supporting file for lecture 8-11.
-

@@ -5,6 +5,7 @@ file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/
 file_type: text/x-fortran
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: poly_area.f
 uid: 3c22a7c4-6b70-2279-8f1c-77357bb498fd
 ---
 This is a supporting file for lecture 3-7.
-

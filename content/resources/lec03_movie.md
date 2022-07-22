@@ -5,6 +5,7 @@ file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/
 file_type: text/x-objcsrc
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lec03_movie.m
 uid: 74301e45-7cd2-9a17-4e0d-0a5626c36176
 ---
 This is a supporting file for lecture 14-17.
-
