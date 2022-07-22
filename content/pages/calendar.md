@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, instructors,
+  presentations, and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: be1f6caf-7bfb-9a08-8b74-7ea689b850f7
 ---
@@ -34,7 +38,7 @@ KEY DATES
 {{< tdopen >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Introduction: Problem formulation, algorithm development, algorithm implementation, and algorithm verification. Structure and documentation
 {{< tdclose >}}
 {{< tdopen >}}
@@ -61,7 +65,7 @@ CH
 {{< tdopen >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Fortran: "Formula Translation". Program creation, compilation and linking, variables and parameters, flow control, subroutines and functions. Structure and documentation. Use of libraries, internal and external communication, and interaction with other languages. Fortran: Implementation issues: Compilation errors, segmentation violations, Not-a-Number (NaN), Input/Output (IOSTAT) errors, Runtime errors. Transportable code, standard extensions. Fortran 90 differences and similarities to Fortran 77
 {{< tdclose >}}
 {{< tdopen >}}

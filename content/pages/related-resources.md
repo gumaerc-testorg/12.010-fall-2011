@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides instructions on using course resources with different
+  types of computers.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: ddefc53c-5c9a-5e34-4407-32ac2e36985b
 ---
