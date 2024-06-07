@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for lecture 8-11.
 file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/c78699e86b165f4cbf1ed3222d6e19bc_area.c
+file_size: 527
 file_type: text/x-csrc
 learning_resource_types:
 - Lecture Notes
