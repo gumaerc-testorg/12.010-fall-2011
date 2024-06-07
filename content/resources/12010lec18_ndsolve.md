@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for lecture 21.
 file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/468a074f6f3453460eac101cd5e1c5bf_12010Lec18_NDsolve.nb
+file_size: 32742
 file_type: application/mathematica
 learning_resource_types:
 - Lecture Notes
