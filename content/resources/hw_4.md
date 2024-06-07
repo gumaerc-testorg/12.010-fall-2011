@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for homework04.
 file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/ce0738e90f9ddad808c1f089ee5a4893_HW_4.nb
+file_size: 452860
 file_type: application/mathematica
 learning_resource_types:
 - Assignments
