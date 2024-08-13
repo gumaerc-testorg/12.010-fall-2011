@@ -85,16 +85,16 @@ Continued with showing the elements of the FORTRAN and more detail on the typica
 
 The links in this lecture were to FORTRAN and intrinsic functions, which are given above. The programs poly\_area.f ({{% resource_link "3c22a7c4-6b70-2279-8f1c-77357bb498fd" "F" %}}) and vars.f ({{% resource_link "667eacfc-4c16-f882-0e50-917d90f9755b" "F" %}}) are also used. (To download programs, right click on link and "save link target as". With one-button mouse use \<ctrl>\<click> on link). On Athena to use these programs:
 
-ssh –X linerva.mit.edu   
-%add fortran   
-%f77 poly\_area.f –o poly\_area   
+ssh –X linerva.mit.edu     
+%add fortran     
+%f77 poly\_area.f –o poly\_area     
 % poly\_area
 
 To use the f90 compiler on Athena, use add sunsoft.
 
 Other sources of information:
 
-[Safari Book Online](https://www.oreilly.com/library/view/learning-java-4th/9781449372477/pr02s07.html) - O'Reilly series of books on programming (available with MIT certificate)
+[O'Reilly series of books on programming](https://www.oreilly.com/search/?q=programming&type=*&rows=10) 
 
 [FORTRAN Resources](https://fortran-lang.org/learn/) - useful link with lots of information on FORTRAN in its various forms
 
@@ -158,8 +158,8 @@ Ball.h ({{% resource_link "cc64c27f-893c-444c-5bde-595a347a63b6" "H" %}}) and la
 
 C++ zip files:
 
-ustring.zip ({{% resource_link "0708c942-c7e9-4356-63f5-287995f91d4d" "ZIP" %}}) (The ZIP file contains: 2 .h files, 1 .cc file, and 1 .txt file.)   
-launch.zip ({{% resource_link "441b39e3-f9f2-b583-a110-d862597c3863" "ZIP" %}}) (The ZIP file contains: 1 .cc file, 1 .h file, and 1 .txt file.)   
+ustring.zip ({{% resource_link "0708c942-c7e9-4356-63f5-287995f91d4d" "ZIP" %}}) (The ZIP file contains: 2 .h files, 1 .cc file, and 1 .txt file.)     
+launch.zip ({{% resource_link "441b39e3-f9f2-b583-a110-d862597c3863" "ZIP" %}}) (The ZIP file contains: 1 .cc file, 1 .h file, and 1 .txt file.)     
 coord.zip ({{% resource_link "a89199d9-8823-8638-d9ba-99927ffae0bf" "ZIP" %}}) (The ZIP file contains: 1 .cc file, 1 .h file, and 1 .txt file.)
 
 ### Lec #11
@@ -168,8 +168,8 @@ Finish up of C++ looking at classes, inheritance and overloading. We will look m
 
 Example pieces of code for C and comparison to FORTRAN:
 
-C basics ({{% resource_link "c26ed81c-4bc2-36f3-8646-870114b6d864" "PDF" %}}), area.c ({{% resource_link "c78699e8-6b16-5f4c-bf1e-d3222d6e19bc" "C" %}}), hello.c ({{% resource_link "b7745047-8d54-b510-5c92-3adb9cb542ea" "C" %}})   
-C FORTRAN compare ({{% resource_link "07558a03-d25d-50ff-1d57-a6def9a9dc48" "PDF" %}})   
+C basics ({{% resource_link "c26ed81c-4bc2-36f3-8646-870114b6d864" "PDF" %}}), area.c ({{% resource_link "c78699e8-6b16-5f4c-bf1e-d3222d6e19bc" "C" %}}), hello.c ({{% resource_link "b7745047-8d54-b510-5c92-3adb9cb542ea" "C" %}})     
+C FORTRAN compare ({{% resource_link "07558a03-d25d-50ff-1d57-a6def9a9dc48" "PDF" %}})     
 C pointers ({{% resource_link "05f8ac66-a0b8-53aa-6ace-1080fa72db8c" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -234,33 +234,33 @@ Lec #17 ({{% resource_link "44478622-e6e7-57e2-de5b-ecce3e525989" "PDF" %}})
 
 MATLAB: introductory lecture on MATLAB introducing system, variable types, control and functions. The following MATLAB M-files are used in the lecture:
 
-Lec01\_01.m ({{% resource_link "335a4fe5-e73b-3751-fd0d-e060b850ed2d" "M" %}})   
+Lec01\_01.m ({{% resource_link "335a4fe5-e73b-3751-fd0d-e060b850ed2d" "M" %}})     
 Lec01\_02.m ({{% resource_link "1e799675-7de6-6d6c-d945-c59ab7f934ae" "M" %}})
 
 ### Lec #15
 
 MATLAB: path command, variables, file IO and dialog boxes. The following M-files are used:
 
-Lec02\_01\_file.m ({{% resource_link "1101fa9b-327b-5bb4-7f42-1ccd933b40c5" "M" %}})   
-Lec02\_02\_db.m ({{% resource_link "1608366b-2b0a-d288-e4ca-48af7ede3120" "M" %}})   
+Lec02\_01\_file.m ({{% resource_link "1101fa9b-327b-5bb4-7f42-1ccd933b40c5" "M" %}})     
+Lec02\_02\_db.m ({{% resource_link "1608366b-2b0a-d288-e4ca-48af7ede3120" "M" %}})     
 Lec03\_01\_file.m ({{% resource_link "d50cb2cb-6d29-c293-a6b8-6a6b109a4115" "M" %}})
 
-The data for these M-files can be found in [MatData](http://www-gpsg.mit.edu/~tah/12.010/MatData/). A tar file with the data is TSeries.tar ({{% resource_link "cd668549-0d67-1d7c-c220-725bbc297e7c" "TAR" %}}) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)
+The data for these M-files can be found in MatData. A tar file with the data is TSeries.tar ({{% resource_link "cd668549-0d67-1d7c-c220-725bbc297e7c" "TAR" %}}) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)
 
 ### Lec #16
 
 MATLAB: graphics handles and animation of figures. The following M-files are used in class:
 
-Lec03\_movie.m ({{% resource_link "74301e45-7cd2-9a17-4e0d-0a5626c36176" "M" %}})   
+Lec03\_movie.m ({{% resource_link "74301e45-7cd2-9a17-4e0d-0a5626c36176" "M" %}})     
 MATLAB/per\_func.m ({{% resource_link "063307ed-7709-10fc-9803-8569307ebccd" "M" %}})
 
 ### Lec #17
 
-MATLAB: final class on GUI construction and use. The following M-files are used (along with the data from [MatData](http://www-gpsg.mit.edu/~tah/12.010/MatData/): a tar file with the data is TSeries.tar ({{% resource_link "cd668549-0d67-1d7c-c220-725bbc297e7c" "TAR" %}}) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)
+MATLAB: final class on GUI construction and use. The following M-files are used (along with the data from MatData: a tar file with the data is TSeries.tar ({{% resource_link "cd668549-0d67-1d7c-c220-725bbc297e7c" "TAR" %}}) (The TAR file contains: 10 .dat1 files, 10 .dat2 files, and 10 .dat3 files.)
 
 Basic GUI layout:
 
-GPSanal.m ({{% resource_link "389afab6-84de-8a20-847b-ccaa333e1dfe" "M" %}})   
+GPSanal.m ({{% resource_link "389afab6-84de-8a20-847b-ccaa333e1dfe" "M" %}})     
 gpsguio.m ({{% resource_link "501337ca-81fb-5c55-3424-4ce13e5be4f2" "M" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -279,8 +279,8 @@ Lec #19 ({{% resource_link "f826ae44-8931-a059-34c1-0e02348127c2" "PDF" %}})
 
 Python I: Python Language Basics
 
-[Python Programming Language—Official Website](http://www.python.org/)   
-[Python v2.7.3 documentation](http://docs.python.org/index.html)   
+[Python Programming Language—Official Website](http://www.python.org/)     
+[Python v2.7.3 documentation](http://docs.python.org/index.html)     
 [The Python Tutorial](http://docs.python.org/tutorial/)
 
 ### Lec #19
@@ -301,10 +301,7 @@ Lec #20 ({{% resource_link "a6178c92-4163-f6e3-8cd3-45871c14334b" "PDF" %}})
 
 Examples are:
 
-Lec20\_3D.m ({{% resource_link "c65c5abb-d184-3a2f-1e4e-9ecb1b2d21c7" "M" %}})   
-Lec20\_TotalANC.avi ([AVI](http://geoweb.mit.edu/~tah/12.010/Lec19_TotalANC.avi))   
-Lec20\_RateANC.avi ([AVI](http://geoweb.mit.edu/~tah/12.010/Lec19_RateANC.avi))   
-Dif\_1006\_0407.fig ([FIG](http://geoweb.mit.edu/~tah/12.010/Dif_1006_0407.fig))
+Lec20\_3D.m ({{% resource_link "c65c5abb-d184-3a2f-1e4e-9ecb1b2d21c7" "M" %}}) 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
