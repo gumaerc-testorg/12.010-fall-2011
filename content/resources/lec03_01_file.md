@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 14-17.
-file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/d50cb2cb6d29c293a6b86a6b109a4115_Lec03_01_file.m
+file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/d50cb2cb6d29c293a6b86a6b109a4115_Lec03_01_file.m
 file_size: 2225
 file_type: text/x-objcsrc
 learning_resource_types:
