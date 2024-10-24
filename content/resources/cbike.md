@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for homework03.
-file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/3b4a74cc83f702feae4593d925c76448_CBike.h
+file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/3b4a74cc83f702feae4593d925c76448_CBike.h
 file_size: 803
 file_type: text/x-chdr
 learning_resource_types:
