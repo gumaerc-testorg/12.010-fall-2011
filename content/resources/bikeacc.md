@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for homework05.
-file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/c7f67ccacd8060b295a4bbc309007be2_bikeacc.m
+file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/c7f67ccacd8060b295a4bbc309007be2_bikeacc.m
 file_size: 1693
 file_type: text/x-objcsrc
 learning_resource_types:

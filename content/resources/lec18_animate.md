@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 21.
-file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/1a17c14eb1385d068e09e57b530c2035_Lec18_animate.m
+file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/1a17c14eb1385d068e09e57b530c2035_Lec18_animate.m
 file_size: 1382
 file_type: text/x-objcsrc
 learning_resource_types:
