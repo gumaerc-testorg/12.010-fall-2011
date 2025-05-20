@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for homework02.
-file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/47e0ddbffff355a3c782f150c78c01dd_NBody.h
+file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/47e0ddbffff355a3c782f150c78c01dd_NBody.h
 file_size: 1038
 file_type: text/x-chdr
 learning_resource_types:

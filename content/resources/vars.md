@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 3-7.
-file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/667eacfc4c16f8820e50917d90f9755b_vars.f
+file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/667eacfc4c16f8820e50917d90f9755b_vars.f
 file_size: 3802
 file_type: text/x-fortran
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 14-17.
-file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/389afab684de8a20847bccaa333e1dfe_GPSanal.m
+file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/389afab684de8a20847bccaa333e1dfe_GPSanal.m
 file_size: 5352
 file_type: text/x-objcsrc
 learning_resource_types:

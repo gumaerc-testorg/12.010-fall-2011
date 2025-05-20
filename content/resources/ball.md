@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 8-11.
-file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/cc64c27f893c444c5bde595a347a63b6_Ball.h
+file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/cc64c27f893c444c5bde595a347a63b6_Ball.h
 file_size: 4428
 file_type: text/x-chdr
 learning_resource_types:
