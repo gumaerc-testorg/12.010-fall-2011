@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for homework03.
-file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/9b2060b404073946c4dd4c89486e390e_NBodyC.h
+file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/9b2060b404073946c4dd4c89486e390e_NBodyC.h
 file_size: 681
 file_type: text/x-chdr
 learning_resource_types:

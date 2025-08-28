@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to c pointers.
-file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/05f8ac66a0b853aa6ace1080fa72db8c_MIT12_010F11_c_pointers.pdf
+file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/05f8ac66a0b853aa6ace1080fa72db8c_MIT12_010F11_c_pointers.pdf
 file_size: 73898
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 8-11.
-file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/4aea5a9e83cfe30e030a883fd1107ba6_launch.c
+file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/4aea5a9e83cfe30e030a883fd1107ba6_launch.c
 file_size: 3515
 file_type: text/x-csrc
 learning_resource_types:

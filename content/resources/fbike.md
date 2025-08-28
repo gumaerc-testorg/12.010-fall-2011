@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for homework02.
-file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/b1376f987802be7c7b5962991ba86b89_FBike.h
+file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/b1376f987802be7c7b5962991ba86b89_FBike.h
 file_size: 2180
 file_type: text/x-chdr
 learning_resource_types:
