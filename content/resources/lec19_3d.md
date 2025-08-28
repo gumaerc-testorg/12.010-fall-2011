@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for lecture 20.
-file: /courses/12-010-computational-methods-of-scientific-programming-fall-2011/c65c5abbd1843a2f1e4e9ecb1b2d21c7_Lec19_3D.m
+file: /ol-ocw-studio-app/courses/12-010-computational-methods-of-scientific-programming-fall-2011/c65c5abbd1843a2f1e4e9ecb1b2d21c7_Lec19_3D.m
 file_size: 5264
 file_type: text/x-objcsrc
 learning_resource_types:
